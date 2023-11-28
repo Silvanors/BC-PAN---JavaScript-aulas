@@ -1,6 +1,6 @@
 //1) Crie um programa que dado um número imprima sua tabuada
 
-const tabu = [];
+const tabuSoma = [];
 
 tabu.push(4);
 
